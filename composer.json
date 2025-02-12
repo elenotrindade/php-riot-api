@@ -1,0 +1,21 @@
+{
+    "name": "elenotrindade/php-riot-api",
+    "description": "A PHP wrapper for the Riot Games API",
+    "type": "library",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "YourVendorName\\RiotApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eleno Trindade",
+            "email": "eleno.trindade@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "license": "MIT"
+}
